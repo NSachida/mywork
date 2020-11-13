@@ -2,7 +2,8 @@
 "I'm working solely for the development of my community"
 
 ## My Contributions
-[] The Light NG: is a company that's aim to volunteer and help my local community in getting to an end to some of our ever lasting problems
+
+**TheLight NG:**  >is a company that's aim to volunteer and help my local community in getting to an end to some of our ever lasting problems
 
 
 **Such as**: _Almajirchi, in-productivity_
@@ -10,6 +11,6 @@
 
 
 
-[] Dambe: is also one of our contribution in our cultural side of view.
+**Dambe:** >is also one of our contribution in our cultural side of view.
 
 
